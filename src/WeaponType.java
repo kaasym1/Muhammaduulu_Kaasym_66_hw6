@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public enum WeaponType {
+
+public enum WeaponType {
+    PISTOL,
+    BOMB,
+    RIFLE
+
+
 }
